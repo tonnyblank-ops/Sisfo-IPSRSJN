@@ -13,42 +13,6 @@ Dasbor interaktif aplikasi ini menyediakan metrik visual dan kontrol data sebaga
 * **Asisten AI:** Fitur kecerdasan buatan terintegrasi untuk membantu analisis data stok atau rekomendasi kebutuhan logistik.
 * **Menu Manajemen Lengkap:** Akses cepat ke modul Referensi, Barang Masuk, Barang Keluar, Stok Gudang, dan Laporan Penjualan/Mutasi.
 
-## 🛠️ Teknologi yang Digunakan
-
-* **Frontend:** HTML5, CSS3, JavaScript (Dashboard dengan visualisasi grafik interaktif)
-* **Backend:** *[Isi dengan Node.js / PHP / Python / Go sesuai backend Anda]*
-* **Database:** *[Isi dengan MySQL / PostgreSQL / MongoDB sesuai database Anda]*
-
-## 💻 Cara Menjalankan Proyek (Lokal)
-
-Ikuti langkah berikut untuk menjalankan aplikasi ini di lingkungan lokal Anda:
-
-### 1. Kloning Repositori
-```bash
-git clone https://github.com
-cd sisfo-stock-ipsrs
-```
-
-### 2. Instalasi Dependensi
-*[Sesuaikan perintah di bawah ini dengan package manager yang Anda gunakan]*
-```bash
-npm install
-# atau jika menggunakan PHP (Composer): composer install
-```
-
-### 3. Konfigurasi Database & Environment
-1. Salin file konfigurasi contoh:
-   ```bash
-   cp .env.example .env
-   ```
-2. Buka file `.env` dan sesuaikan kredensial database Anda.
-
-### 4. Jalankan Aplikasi
-```bash
-npm run dev
-# atau jika menggunakan PHP: php -S localhost:8000
-```
-Buka `http://localhost:8000` atau port yang tertera pada terminal Anda melalui peramban web (browser).
 
 ## 📄 Lisensi
 
